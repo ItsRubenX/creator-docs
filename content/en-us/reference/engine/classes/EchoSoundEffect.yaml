@@ -25,7 +25,7 @@ description: |
   echo effect is applied to a regular Sound, once that sound stops playing the
   echo effect will also be cut off. When applied to a SoundGroup, the echo
   effect will continue playing even if the original source sound has
-  stopped.Like all other `Class.SoundEffect`, a EchoSoundEffect can be applied
+  stopped. Like all other `Class.SoundEffect`, a EchoSoundEffect can be applied
   either to a `Class.Sound` or `Class.SoundGroup` by being parented to either.
 code_samples:
 inherits:
